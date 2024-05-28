@@ -1,8 +1,6 @@
 # Crypto Web Scraper
 
-This repository contains web scraping scripts for fetching cryptocurrency data using R and Python.
-
-## Setup
+This repository contains web scraping scripts for fetching cryptocurrency data using either R or Python.
 
 ## R 
 
